@@ -7,13 +7,6 @@ namespace git_net
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello 2");
-
-            int i = 0;
-            int j = 10;
-
-            Console.WriteLine(i + j);
-
         }
     }
 }
