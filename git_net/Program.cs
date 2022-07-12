@@ -9,7 +9,11 @@ namespace git_net
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello 2");
 
-            Console.WriteLine("Another hello");
+            int i = 0;
+            int j = 10;
+
+            Console.WriteLine(i + j);
+
         }
     }
 }
