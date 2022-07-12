@@ -7,7 +7,6 @@ namespace git_net
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Nova linija");
         }
     }
 }
