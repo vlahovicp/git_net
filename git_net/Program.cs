@@ -8,6 +8,10 @@ namespace git_net
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello 2");
+
+            // komentar
+
+            int i = = 0;
         }
     }
 }
